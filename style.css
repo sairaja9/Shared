@@ -1,0 +1,11 @@
+.big{
+    display: inline-block;
+    min-width: 95vw;
+    max-width: 95vw;
+    border: 0.25px solid grey;
+    font-family: 'Fira Code', monospace;
+}
+
+#result{
+    width: 95vw;
+}
